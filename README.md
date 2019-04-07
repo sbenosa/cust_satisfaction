@@ -1,2 +1,2 @@
 # cust_satisfaction
-An analysis of customer behaviors that make them leave or stay in a bank
+This is a classifier model to determine the level of customer satisfaction based on their activity on a certain bank. 
